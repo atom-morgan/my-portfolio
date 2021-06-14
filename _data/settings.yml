@@ -27,7 +27,7 @@ menu__settings:
     #     title: 'Elements'
 
 # Call to action button
-cta__button__text: Get in touch
+cta__button__text: Book now!
 cta__button_url: 'https://calendly.com/atom-morgan'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
@@ -69,7 +69,7 @@ testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'tex
 testimonial-items:
   - name: "Levi Robertson"
     image: "/images/testimonial-levi.jpeg"
-    designation : "Host of JAMstack Phoenix."
+    designation : "Host of JAMstack Phoenix"
     content : "The Angular Tutorial along with Adam’s advice has completely changed my career..."
 
   - name: "Kaeside Iwuagwu"
