@@ -3,9 +3,9 @@
 
 title: Adam
 tab__title: Adam Morgan - Web Developer and Designer
-meta__title: Adam Morgan
+meta__title: Adam Morgan – Full Stack Software Engineer and Web Designer
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Adam Morgan – Full Stack Software Engineer and Web Designer
+description: Adam Morgan – Hire me to design and build your next website!
 
 menu__settings:
   menu__items:
@@ -75,7 +75,7 @@ testimonial-items:
   - name: "Kaeside Iwuagwu"
     image: "/images/testimonial-kaeside.jpeg"
     designation : "Implementation Manager at WebMD"
-    content : "Adam has a knack for breaking down complex topics while using relatable topics and keeps learning Angular fun."
+    content : "Adam has a knack for breaking down complex topics and keeps learning Angular fun."
 
   - name: "Matthew Knowles"
     image: "/images/testimonial-matthew.jpeg"
