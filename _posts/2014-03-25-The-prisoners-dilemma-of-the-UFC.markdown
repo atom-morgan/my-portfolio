@@ -22,7 +22,7 @@ Immediately after the weigh-in, fighters reverse the entire process. They start 
 
 The process is painful and damaging both physically and mentally. Why do they do this? It’s a classic case of the prisoner’s dilemma.
 
-![Prisonner's Dilemma](http://imgur.com/6wuLpTf.png)
+![Prisonner's Dilemma](https://imgur.com/6wuLpTf.png)
 
 If competing fighters within a given weight class were to avoid cutting weight as shown above, both would be better off. The fighters would be of equal weight and wouldn’t suffer the damaging effects caused by cutting weight. So our 170 pound fighters in the welterweight division could maintain their original size which is closer to 190 pounds, avoid cutting weight, and fight in the middleweight division instead.
 

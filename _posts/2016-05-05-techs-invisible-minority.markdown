@@ -62,7 +62,7 @@ This level of involvement seems to be doing well if we look at actual data. Asia
 
 There's another factor with Asians that's worth addressing. They're at the top for [family stability](http://www.nytimes.com/2013/11/26/health/families.html){:target="_blank"}.
 
-![Divorce rates by race](http://imgur.com/NLlLfDK.png)
+![Divorce rates by race](https://imgur.com/NLlLfDK.png)
 
 In general Asians are very involved parents and they're not divorcing nearly as often. This stable family is crucial when we look at what happens to children from single parent households. [One study](http://lifestyle.howstuffworks.com/family/parenting/single-parents/single-parenting-affect-children2.htm){:target="_blank"} found "children from single-parent families had twice the incidence of psychiatric illness, suicide attempts and alcohol abuse problems compared with those from two-parent homes".
 

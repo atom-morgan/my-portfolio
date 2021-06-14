@@ -12,7 +12,7 @@ What I find even more surprising is the lack of diversity with the arguments aga
 
 Many people are against Bitcoin because they don’t believe it can reach mass adoption. As a consumer, why should they go out of their way to acquire Bitcoin when there’s only a handful of businesses who accept them? As a business, why should they go out of their way to integrate Bitcoin into their POS systems when there’s only a handful of early adopters who use them?
 
-![Innovation Adoption Lifecycle](http://upload.wikimedia.org/wikipedia/en/4/45/DiffusionOfInnovation.png)
+![Innovation Adoption Lifecycle](https://upload.wikimedia.org/wikipedia/en/4/45/DiffusionOfInnovation.png)
 
 To help give you a point of reference, we’re currently at the beginning of the adoption lifecycle where everyone who is using Bitcoin would be classified as an Innovator. A widespread, stable infrastructure isn’t in place yet so there’s a steep learning curve to use it. Many Bitcoin related services are relatively new and there are still many risks involved with using the currency. It takes valuable time to do the research to learn how to keep your Bitcoin wallet secure and only those innovators are wiling to do so.
 
