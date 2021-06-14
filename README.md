@@ -1,5 +1,7 @@
 # Avenco - Creative Portfolio Theme for Jekyll
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b81e1c88-a527-4fd7-a9ab-00dd818a81be/deploy-status)](https://app.netlify.com/sites/vibrant-kirch-7119c2/deploys)
+
 Avenco is a modern and minimal portfolio theme for Jekyll. This theme was specially created to help show your work in a simple yet creative way. Also, the Avenco theme includes several basic and easily customizable sections such as Works, Testimonials, Blog, Contact and therefore will be a good choice for any freelancer, designer, or developer.
 
 * * *
