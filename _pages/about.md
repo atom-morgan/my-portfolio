@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: Some extra details about myself.
 image: '/images/planche.jpeg'
 ---
 

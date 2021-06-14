@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+description: Whether you need a personal website or a fully featured web app, I can help you meet your business needs.
 image: '/images/book-card.png'
 ---
 
