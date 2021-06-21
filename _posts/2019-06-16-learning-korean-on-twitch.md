@@ -5,6 +5,8 @@ layout: post
 tag: post
 excerpt: >-
   Rather than learning a new language on my own and then publishing a blog post or YouTube video about the process once I'm fluent detailing how I did it, I've decided to livestream the entire process on Twitch
+description: >-
+  Rather than learning a new language on my own and then publishing a blog post or YouTube video about the process once I'm fluent detailing how I did it, I've decided to livestream the entire process on Twitch
 image: '/images/learning-korean-on-twitch.png'
 thumb_image: '/images/learning-korean-on-twitch.png'
 ---

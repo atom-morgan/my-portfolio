@@ -5,6 +5,8 @@ layout: post
 tag: [tutorial, angular, WebDev]
 excerpt: >-
   In this tutorial we'll learn the basics of Angular's other approach to forms, reactive forms, by creating a user signup page with the same three fields: name, email, and password.
+description: >-
+  In this tutorial we'll learn the basics of Angular's other approach to forms, reactive forms, by creating a user signup page with the same three fields: name, email, and password.
 image: '/images/reactive-forms/tutorial-cover.png'
 thumb_image: '/images/reactive-forms/tutorial-cover.png'
 style: code

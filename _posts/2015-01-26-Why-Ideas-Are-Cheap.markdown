@@ -5,6 +5,8 @@ layout: post
 tag: [opinion]
 excerpt: >-
   If I won't part with $25 dollars without confirmation that a product has been validated by the market on Amazon, why would an investor hand you hundreds of thousands of dollars for a business idea with no users?
+description: >-
+  If I won't part with $25 dollars without confirmation that a product has been validated by the market on Amazon, why would an investor hand you hundreds of thousands of dollars for a business idea with no users?
 ---
 
 I was recently contacted by someone looking for help with their startup. They're planning on releasing an alpha version within the next few weeks and they wanted me to help polish things up on the front-end and potentially join their team to lead their front-end development. We set up a time to talk and started going into the details of their business. It didn't take long before I asked them how they planned on making money [1].

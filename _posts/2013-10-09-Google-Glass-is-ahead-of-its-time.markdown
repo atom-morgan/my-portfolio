@@ -2,6 +2,8 @@
 title: "Google Glass is ahead of its time"
 excerpt: >-
   Wearable computing is the future of mobile technology but wearable devices are nothing but a novelty if they aren’t paired with the correct interface and this is where Glass falls short.
+description: >-
+  Wearable computing is the future of mobile technology but wearable devices are nothing but a novelty if they aren’t paired with the correct interface and this is where Glass falls short.
 date: '2013-10-09'
 layout: post
 tag: [opinion]

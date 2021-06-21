@@ -5,6 +5,8 @@ layout: post
 tag: [opinion]
 excerpt: >-
   How far are we on the "swinging pendulum" of political correctness and what does the future look like if firings like the Google Memo become the norm?
+description: >-
+  How far are we on the "swinging pendulum" of political correctness and what does the future look like if firings like the Google Memo become the norm?
 ---
 
 It's been just over a month now since the Google Memo was first published by Gizmodo. Since then, we've already seen other companies such as YouTube, Eventbrite, and MailChimp take similar politically motivated actions like Google.

@@ -5,6 +5,8 @@ layout: post
 tag: [opinion]
 excerpt: >-
   Twitter helped organize a revolution in Egypt through a hashtag - #Jan25th. I really hope Snapchat goes along for the ride in the future.
+description: >-
+  Twitter helped organize a revolution in Egypt through a hashtag - #Jan25th. I really hope Snapchat goes along for the ride in the future.
 ---
 
 Roughly two months ago, Snapchat released their “Our Story” feature. Similar to the “My Story” feature available to all users of the app, the “Our Story” feature provides the ability for a curated channel of snaps by Snapchat users that’s accessible to everyone. Its debut was at the Electric Daisy Carnival, a dance music festival with roughly 140,000 people in attendance.

@@ -5,6 +5,8 @@ layout: post
 tag: [opinion]
 excerpt: >-
   Why do investors need to be accredited?
+description: >-
+  Why do investors need to be accredited?
 ---
 
 I stumbled upon an article the other day that contained a small piece of information I’d never known before. To be an investor, you have to be [accredited](http://www.businessinsider.com/sec-announces-crowdfunding-rule-to-allow-startups-to-raise-1-million-from-unaccredited-investors-2013-10#ixzz2iaskUpYm){:target="_blank"}.

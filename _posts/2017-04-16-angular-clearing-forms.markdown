@@ -7,6 +7,8 @@ image: '/images/clearing-forms-in-angular/tutorial-clearing-forms.png'
 thumb_image: '/images/clearing-forms-in-angular/tutorial-clearing-forms.png'
 excerpt: >-
   Thankfully the solution to this problem is easy and takes just two lines of real code to get the job done.
+description: >-
+  Thankfully the solution to this problem is easy and takes just two lines of real code to get the job done.
 style: code
 ---
 

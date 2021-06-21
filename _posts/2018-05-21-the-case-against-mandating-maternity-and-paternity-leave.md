@@ -5,6 +5,8 @@ layout: post
 tag: [opinion]
 excerpt: >-
   In many ways the tech industry serves as the one to push the boundaries of the workplace. From in-office amenities, gym memberships, catered lunches, and a variety of other benefits the tech industry leads and others follow. The one benefit that seems to have the most traction at the moment is mandated maternity and paternity leave.
+description: >-
+  In many ways the tech industry serves as the one to push the boundaries of the workplace. From in-office amenities, gym memberships, catered lunches, and a variety of other benefits the tech industry leads and others follow. The one benefit that seems to have the most traction at the moment is mandated maternity and paternity leave.
 ---
 
 In many ways the tech industry serves as the one to push the boundaries of the workplace. From in-office amenities, gym memberships, catered lunches, and a variety of other benefits the tech industry leads and others follow. The one benefit that seems to have the most traction at the moment is mandated maternity and paternity leave.

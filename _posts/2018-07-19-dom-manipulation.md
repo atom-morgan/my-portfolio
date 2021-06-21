@@ -5,6 +5,8 @@ layout: post
 tag: [tutorial, WebDev, JavaScript]
 excerpt: >-
   In this tutorial we're going to begin working with HTML to add some interactivity to our programs with a UI.
+description: >-
+  In this tutorial we're going to begin working with HTML to add some interactivity to our programs with a UI.
 image: '/images/dom-manipulation/tutorial-cover.png'
 thumb_image: '/images/dom-manipulation/tutorial-cover.png'
 style: code

@@ -5,6 +5,8 @@ layout: post
 tag: [tutorial, WebDev, JavaScript]
 excerpt: >-
   Up until this point we've been calling functions (also referred to as methods) like console.log() and .charAt(). In this tutorial we're going to switch from calling functions to writing them as well.
+description: >-
+  Up until this point we've been calling functions (also referred to as methods) like console.log() and .charAt(). In this tutorial we're going to switch from calling functions to writing them as well. 
 image: '/images/functions/tutorial-functions.png'
 thumb_image: '/images/functions/tutorial-functions.png'
 style: code

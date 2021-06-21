@@ -7,6 +7,8 @@ layout: post
 tag: [opinion]
 excerpt: >-
   Snapchat snuck up on me and is now easily one of my favorite apps. It provides a connection to people in our lives in ways that never existed prior to the spread of mobile technology.
+description: >-
+  Snapchat snuck up on me and is now easily one of my favorite apps. It provides a connection to people in our lives in ways that never existed prior to the spread of mobile technology.
 ---
 
 Snapchat is one of those apps I installed on my phone expecting to remove in a week. I couldn’t see myself using it. Why would I want to send someone a temporary picture?

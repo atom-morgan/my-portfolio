@@ -5,6 +5,8 @@ layout: post
 tag: [tutorial, WebDev, JavaScript]
 excerpt: >-
   What the **** is Code Companion?
+description: >-
+  What the **** is Code Companion?
 image: '/images/blog-code-companion.png'
 thumb_image: '/images/blog-code-companion.png'
 ---

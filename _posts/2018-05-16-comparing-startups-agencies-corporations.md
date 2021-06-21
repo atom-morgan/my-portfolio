@@ -5,6 +5,8 @@ layout: post
 tag: career
 excerpt: >-
   Whether you're already working in tech or you're looking to in the near future at some point you'll have to decide where you want to work. So here's list of my pros and cons between startups, corporations, and agencies.
+description: >-
+  Whether you're already working in tech or you're looking to in the near future at some point you'll have to decide where you want to work. So here's list of my pros and cons between startups, corporations, and agencies.
 image: '/images/startups-corporations-agencies/cover.png'
 thumb_image: '/images/startups-corporations-agencies/cover.png'
 ---

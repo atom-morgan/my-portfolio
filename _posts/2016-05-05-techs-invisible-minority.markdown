@@ -5,6 +5,8 @@ layout: post
 tag: [opinion]
 excerpt: >-
   So what's causing Asian men and Asian women to outperform whites? And more importantly, why isn't this racial discrepancy being addressed when we're talking about white privilege and a lack of diversity?
+description: >-
+  So what's causing Asian men and Asian women to outperform whites? And more importantly, why isn't this racial discrepancy being addressed when we're talking about white privilege and a lack of diversity?
 ---
 
 Another day in tech is another day with a [new initiative](http://techcrunch.com/2016/05/03/ellen-pao-freada-kapor-klein-and-others-form-tech-diversity-and-inclusion-war-room/){:target="_blank"} advocating for more diversity and inclusion within the industry. This initiative, [Project Include](http://projectinclude.org/){:target="_blank"}, is being led by well-known women in tech who seem to be working towards making entire careers out of this made up problem.

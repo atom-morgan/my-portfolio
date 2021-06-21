@@ -5,6 +5,8 @@ layout: post
 tag: [tutorial, angular, WebDev]
 excerpt: >-
   In this tutorial we'll learn how to generate a new Angular project using the Angular CLI and style it using the Bulma framework.
+description: >-
+  In this tutorial we'll learn how to generate a new Angular project using the Angular CLI and style it using the Bulma framework.
 image: '/images/angular-and-bulma/tutorial-angular-and-bulma.png'
 thumb_image: '/images/angular-and-bulma/tutorial-angular-and-bulma.png'
 style: code

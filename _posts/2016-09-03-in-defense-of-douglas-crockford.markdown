@@ -5,6 +5,8 @@ layout: post
 tag: [opinion]
 excerpt: >-
   Two days ago the tech conference Nodevember announced that they would be removing a keynote speaker from their lineup in an effort to make their conference a more comfortable environment for all attendees.
+description: >-
+  Two days ago the tech conference Nodevember announced that they would be removing a keynote speaker from their lineup in an effort to make their conference a more comfortable environment for all attendees.
 ---
 
 Two days ago the tech conference Nodevember announced that they would be removing a keynote speaker from their lineup in an effort to make their conference a more comfortable environment for all attendees.

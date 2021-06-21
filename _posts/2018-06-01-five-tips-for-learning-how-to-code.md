@@ -5,6 +5,8 @@ layout: post
 tag: [career, WebDev]
 excerpt: >-
   You've made your decision to learn how to code and now it's time to get started. But how do you do it? As a self-taught programmer I've been through the struggle of learning how to code and if I had to do it again, this is how I'd do it.
+description: >-
+  You've made your decision to learn how to code and now it's time to get started. But how do you do it? As a self-taught programmer I've been through the struggle of learning how to code and if I had to do it again, this is how I'd do it.
 image: "/images/blog-five-tips.png"
 thumb_image: "/images/blog-five-tips.png"
 ---

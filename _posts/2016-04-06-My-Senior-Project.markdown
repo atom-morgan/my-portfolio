@@ -5,6 +5,8 @@ layout: post
 tag: [opinion]
 excerpt: >-
   If you don't know already, TurboTax thrives off of the tax system being a complete pain in the ass. If there was no pain there'd be no TurboTax.
+description: >-
+  If you don't know already, TurboTax thrives off of the tax system being a complete pain in the ass. If there was no pain there'd be no TurboTax.
 ---
 
 After many weekends of "I'll do it next weekend" I finally managed to get around to filing my taxes. A libertarian's worst nightmare. It's a weird situation because I know I'm getting money back and I know it will arrive in a few weeks but the process itself is so bad I never want to do it. I hate it.
