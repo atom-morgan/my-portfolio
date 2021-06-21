@@ -4,6 +4,7 @@ date: '2013-10-06'
 thumb_image:
 image:
 layout: post
+tag: [opinion]
 excerpt: >-
   Snapchat snuck up on me and is now easily one of my favorite apps. It provides a connection to people in our lives in ways that never existed prior to the spread of mobile technology.
 ---

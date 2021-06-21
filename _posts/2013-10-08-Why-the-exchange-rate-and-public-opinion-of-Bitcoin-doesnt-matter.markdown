@@ -4,6 +4,7 @@ excerpt: >-
   From financial journalists to the currency layman, skepticism around Bitcoin generally comes down to two issues: usability and volatility. While the volatility of Bitcoin is definitely a topic worth discussion, I’m simply going to focus on the argument against its usability, or lack thereof, since I believe it’s the most critical issue for Bitcoin today.
 date: '2013-10-08'
 layout: post
+tag: [opinion]
 ---
 
 I’ve had my fair share of conversations about Bitcoin with people who are both for it and against it. Reasons for an individual’s interest in Bitcoin seem to vary widely from an economics or finance background to a political one to fight against a nationalized currency whose fate lies in the hands of a few unelected individuals. It’s great to see Bitcoin bringing people together from such a variety of backgrounds.

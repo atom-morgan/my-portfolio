@@ -2,6 +2,7 @@
 title: "The Political Pendulum"
 date: '2017-09-23'
 layout: post
+tag: [opinion]
 excerpt: >-
   How far are we on the "swinging pendulum" of political correctness and what does the future look like if firings like the Google Memo become the norm?
 ---

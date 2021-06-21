@@ -1,6 +1,7 @@
 ---
 title: "Start Small and Show Up"
 date: '2018-03-13'
+tag: [opinion, career]
 layout: post
 excerpt: >-
   The biggest error people make when building a new habit is to go from 0 to 100 overnight.

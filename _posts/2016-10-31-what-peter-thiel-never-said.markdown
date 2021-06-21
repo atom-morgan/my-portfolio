@@ -2,6 +2,7 @@
 title: "What Peter Thiel Never Said"
 date: '2016-10-31'
 layout: post
+tag: [opinion]
 excerpt: >-
   The issue here is that Peter Thiel does not conform to the politics of the Valley and they want him out.
 ---

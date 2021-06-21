@@ -2,7 +2,7 @@
 title: "Clearing Forms in Angular v6"
 date: '2017-04-16'
 layout: post
-tag: [tutorial, angular, webdev]
+tag: [tutorial, angular, WebDev]
 image: '/images/clearing-forms-in-angular/tutorial-clearing-forms.png'
 thumb_image: '/images/clearing-forms-in-angular/tutorial-clearing-forms.png'
 excerpt: >-

@@ -2,7 +2,7 @@
 title: 'Code Companion #2: "Hello, world" in JavaScript'
 date: '2018-05-29'
 layout: post
-tag: [tutorial, webdev]
+tag: [tutorial, WebDev, JavaScript]
 excerpt: >-
   Learn web development with an introduction to JavaScript by creating three variations of the classic "Hello, world" program.
 image: "/images/hello-world/tutorial-hello-world.png"

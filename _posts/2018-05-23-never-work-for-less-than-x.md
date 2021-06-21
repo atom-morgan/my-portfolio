@@ -2,7 +2,7 @@
 title: 'Why "Never Work for Less Than $X" Is Horrible Advice'
 date: '2018-05-23'
 layout: post
-tag: career
+tag: [opinion, career]
 excerpt: >-
   If you're trying to get into tech and you have an offer from a company, <em>do not</em> listen to this type of advice. Don't think back on a Medium article you saw that said developers should never accept less than $70,000 a year because anything lower than that is ripping you off. That may be true for the author, but is it true for you?
 image: '/images/never-work-for-less-than-x/teenage-unemployment.png'

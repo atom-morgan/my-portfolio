@@ -1,5 +1,6 @@
 ---
 title: "How I Motivate Myself to Learn"
+tag: [opinion, career]
 date: '2017-10-04'
 layout: post
 ---

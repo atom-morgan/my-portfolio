@@ -2,6 +2,7 @@
 title: "The prisoner's dilemma of the UFC"
 date: '2014-03-25'
 layout: post
+tag: [opinion]
 excerpt: >-
   While there were many legitimate reasons for introducing weight classes, it has produced unintended consequences that affect the health of the fighters.
 ---

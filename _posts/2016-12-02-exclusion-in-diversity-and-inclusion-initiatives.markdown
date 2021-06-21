@@ -2,6 +2,7 @@
 title: "Exclusion in Diversity and Inclusion Initiatives"
 date: '2016-12-02'
 layout: post
+tag: [opinion]
 excerpt: >-
   All of these groups and many others seem to ignore the fact that any group, no matter how hard you try, will be exclusionary to some degree.
 ---

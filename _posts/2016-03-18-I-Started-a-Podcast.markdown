@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I Started a Podcast"
+tag: [opinion]
 date: '2016-03-18'
 excerpt: >-
   If you like my writing, tweets, or you're curious about my thoughts on current events, politics, and technology you can find my podcast The Adam Morgan Show on iTunes.

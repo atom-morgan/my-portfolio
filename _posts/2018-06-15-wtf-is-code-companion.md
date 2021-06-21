@@ -2,7 +2,7 @@
 title: 'WTF is Code Companion?'
 date: '2018-06-15'
 layout: post
-tag: [tutorial, webdev]
+tag: [tutorial, WebDev, JavaScript]
 excerpt: >-
   What the **** is Code Companion?
 image: '/images/blog-code-companion.png'

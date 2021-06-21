@@ -2,7 +2,7 @@
 title: 'The Case Against Mandating Maternity and Paternity Leave'
 date: '2018-05-21'
 layout: post
-tag: career
+tag: [opinion]
 excerpt: >-
   In many ways the tech industry serves as the one to push the boundaries of the workplace. From in-office amenities, gym memberships, catered lunches, and a variety of other benefits the tech industry leads and others follow. The one benefit that seems to have the most traction at the moment is mandated maternity and paternity leave.
 ---

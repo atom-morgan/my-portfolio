@@ -2,7 +2,7 @@
 title: 'Code Companion #8: Embrace the Suck'
 date: '2018-07-11'
 layout: post
-tag: [tutorial, webdev, career]
+tag: [tutorial, WebDev, JavaScript, career]
 image: '/images/embrace-the-suck/blog-embrace-the-suck.png'
 thumb_image: '/images/embrace-the-suck/blog-embrace-the-suck.png'
 excerpt: >-

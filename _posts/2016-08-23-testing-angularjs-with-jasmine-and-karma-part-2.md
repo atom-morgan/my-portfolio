@@ -1,7 +1,7 @@
 ---
 title: 'Testing AngularJS with Jasmine and Karma (Part 2)'
 date: '2016-08-23'
-tag: [tutorial, angular, webdev]
+tag: [tutorial, angular, WebDev, testing]
 thumb_image: "/images/scotch-2.png"
 image: "/images/scotch-2.png"
 layout: post

@@ -2,6 +2,7 @@
 title: "Readjusting Expectations in Tech"
 date: '2016-02-11'
 layout: post
+tag: [opinion]
 excerpt: >-
   Just as I'd expected something different transitioning from grade to grade in school, I'd done the same switching companies and industries. I'd expected something to change and the only real difference was my work.
 ---

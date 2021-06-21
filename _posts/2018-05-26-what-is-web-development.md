@@ -2,7 +2,7 @@
 title: "Code Companion #1: What is Web Development?"
 date: '2018-05-26'
 layout: post
-tag: [tutorial, webdev]
+tag: [tutorial, WebDev, JavaScript]
 excerpt: >-
   In this tutorial we're going to clarify web development terms such as HTML, CSS, JavaScript, server-side programming, client-side programming, databases, JSON, and so on to give you a grasp of how everything fits together at a high level.
 image: "/images/what-is-web-dev/tutorial-what-is-web-dev.png"

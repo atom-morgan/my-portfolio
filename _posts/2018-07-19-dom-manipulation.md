@@ -2,7 +2,7 @@
 title: 'Code Companion #9: DOM Manipulation'
 date: '2018-07-19'
 layout: post
-tag: [tutorial, webdev]
+tag: [tutorial, WebDev, JavaScript]
 excerpt: >-
   In this tutorial we're going to begin working with HTML to add some interactivity to our programs with a UI.
 image: '/images/dom-manipulation/tutorial-cover.png'

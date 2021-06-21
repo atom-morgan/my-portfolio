@@ -2,7 +2,7 @@
 title: 'Template-Driven Forms in Angular v6'
 date: '2018-11-11'
 layout: post
-tag: [tutorial, angular, webdev]
+tag: [tutorial, angular, WebDev]
 excerpt: >-
   In this tutorial we'll learn the basics of template-driven forms in Angular by creating a user signup page with three fields: name, email, and password.
 image: '/images/template-forms/tutorial-cover.png'

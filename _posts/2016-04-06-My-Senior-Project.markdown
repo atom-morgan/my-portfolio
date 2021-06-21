@@ -2,6 +2,7 @@
 title: "My Senior Project: Government Corruption 101"
 date: '2016-04-06'
 layout: post
+tag: [opinion]
 excerpt: >-
   If you don't know already, TurboTax thrives off of the tax system being a complete pain in the ass. If there was no pain there'd be no TurboTax.
 ---

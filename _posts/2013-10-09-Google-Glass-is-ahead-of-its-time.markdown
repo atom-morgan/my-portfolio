@@ -4,6 +4,7 @@ excerpt: >-
   Wearable computing is the future of mobile technology but wearable devices are nothing but a novelty if they aren’t paired with the correct interface and this is where Glass falls short.
 date: '2013-10-09'
 layout: post
+tag: [opinion]
 ---
 
 Google Glass is futuristic and it’s a step in the right direction. Wearable computing is the future of mobile technology but wearable devices are nothing but a novelty if they aren’t paired with the correct interface and this is where Glass falls short.

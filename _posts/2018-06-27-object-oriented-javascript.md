@@ -2,7 +2,7 @@
 title: 'Code Companion #6: Object Oriented JavaScript'
 date: '2018-06-27'
 layout: post
-tag: [tutorial, webdev]
+tag: [tutorial, WebDev, JavaScript]
 excerpt: >-
   In this tutorial, we're going to look at JavaScript by creating objects that we can instantiate using the new keyword as we saw in the last tutorial when we were working with Date.
 image: '/images/object-oriented-javascript/tutorial-cover.png'

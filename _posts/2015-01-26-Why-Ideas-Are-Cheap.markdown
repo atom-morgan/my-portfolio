@@ -2,6 +2,7 @@
 title: "Why Ideas Are Cheap"
 date: '2015-01-26'
 layout: post
+tag: [opinion]
 excerpt: >-
   If I won't part with $25 dollars without confirmation that a product has been validated by the market on Amazon, why would an investor hand you hundreds of thousands of dollars for a business idea with no users?
 ---

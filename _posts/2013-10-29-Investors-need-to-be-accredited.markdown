@@ -2,6 +2,7 @@
 title: "Investors need to be accredited?"
 date: '2013-10-29'
 layout: post
+tag: [opinion]
 excerpt: >-
   Why do investors need to be accredited?
 ---

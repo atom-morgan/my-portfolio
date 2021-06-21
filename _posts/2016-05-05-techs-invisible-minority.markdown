@@ -2,6 +2,7 @@
 title: "Asians: Tech's Invisible Minority"
 date: '2016-05-09'
 layout: post
+tag: [opinion]
 excerpt: >-
   So what's causing Asian men and Asian women to outperform whites? And more importantly, why isn't this racial discrepancy being addressed when we're talking about white privilege and a lack of diversity?
 ---

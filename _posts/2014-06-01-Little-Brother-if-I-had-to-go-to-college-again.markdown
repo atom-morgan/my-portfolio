@@ -2,6 +2,7 @@
 title: "Little Brother, if I had to go to college again"
 date: '2014-06-01'
 layout: post
+tag: [opinion]
 ---
 
 My brother recently moved away from home to begin his first semester of college. I thought about my first semester of college and how much I changed during those four years. As I put myself in his shoes I thought to myself - what would I do differently if I had to go through college one more time? What would I do the same?

@@ -2,6 +2,7 @@
 title: "Child Labor Laws Are Outdated"
 date: '2016-03-22'
 layout: post
+tag: [opinion]
 excerpt: >-
   Why are we still living with outdated child labor laws? If an ambitious teenager learns Photoshop and Illustrator why should anybody stop them from making money simply because they're under a certain age? 
 ---

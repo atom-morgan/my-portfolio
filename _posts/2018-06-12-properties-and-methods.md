@@ -2,7 +2,7 @@
 title: 'Code Companion #4: Properties and Methods in JavaScript'
 date: '2018-06-12'
 layout: post
-tag: [tutorial, webdev]
+tag: [tutorial, WebDev, JavaScript]
 excerpt: >-
   In this tutorial we're going to introduce some of the properties and methods exposed to us by the data types in JavaScript. Finally, we'll wrap up by taking our first look at iteration.
 image: '/images/properties-and-methods/tutorial-properties-and-methods.png'

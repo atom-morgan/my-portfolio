@@ -2,6 +2,7 @@
 title: "Where's Snapchat's 'Our Story' for Ferguson?"
 date: '2014-08-24'
 layout: post
+tag: [opinion]
 excerpt: >-
   Twitter helped organize a revolution in Egypt through a hashtag - #Jan25th. I really hope Snapchat goes along for the ride in the future.
 ---

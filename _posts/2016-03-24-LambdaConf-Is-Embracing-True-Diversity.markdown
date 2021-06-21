@@ -2,6 +2,7 @@
 title: "LambdaConf Is Embracing True Diversity"
 date: '2016-03-24'
 layout: post
+tag: [opinion]
 excerpt: >-
   Most initiatives for diversity in tech are political in nature. It has nothing to do with true diversity and inclusion as we're seeing with the backlash against LamdbaConf.
 ---

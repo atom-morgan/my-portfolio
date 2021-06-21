@@ -1,7 +1,7 @@
 ---
 title: 'How to Mock an API in Angular v6'
 date: '2018-07-15'
-tag: [tutorial, angular, webdev]
+tag: [tutorial, angular, WebDev]
 excerpt: >-
   In this tutorial you'll learn how to setup an Angular v6 application using the Angular CLI and mock an observable API for your application.
 image: '/images/mocking-angular-api/tutorial-cover.png'

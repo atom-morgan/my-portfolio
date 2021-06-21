@@ -1,7 +1,7 @@
 ---
 title: "'Hello, Testing!' with Jasmine"
 date: '2016-03-02'
-tag: [tutorial, webdev]
+tag: [tutorial, WebDev, JavaScript, testing]
 excerpt: >-
   In the world of programming a “Hello, world” program allows us to create a very small working program to verify things are working correctly. If you’ve ever written JavaScript and you found yourself wishing there was a “Hello, world” equivalent for testing, this is it!
 layout: post
